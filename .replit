@@ -1,2 +1,5 @@
 language = "html"
 run = "python -m SimpleHTTPServer"
+
+[nix]
+channel = "stable-22_05"
